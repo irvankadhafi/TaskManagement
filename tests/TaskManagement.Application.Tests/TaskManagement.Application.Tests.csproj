@@ -35,7 +35,6 @@
     <ProjectReference Include="..\..\src\TaskManagement.Infrastructure\TaskManagement.Infrastructure.csproj" />
     <ProjectReference Include="..\..\src\TaskManagement.Persistence\TaskManagement.Persistence.csproj" />
     <ProjectReference Include="..\..\src\TaskManagement.Shared\TaskManagement.Shared.csproj" />
-    <ProjectReference Include="..\TaskManagement.Integration.Tests\TaskManagement.Integration.Tests.csproj" />
   </ItemGroup>
 
 </Project>
