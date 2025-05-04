@@ -1,0 +1,12 @@
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/bin/Debug/net8.0/TaskManagement.Domain.deps.json
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/bin/Debug/net8.0/TaskManagement.Domain.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/bin/Debug/net8.0/TaskManagement.Domain.pdb
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.csproj.AssemblyReference.cache
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.AssemblyInfoInputs.cache
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.AssemblyInfo.cs
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/refint/TaskManagement.Domain.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/TaskManagement.Domain.pdb
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Domain/obj/Debug/net8.0/ref/TaskManagement.Domain.dll

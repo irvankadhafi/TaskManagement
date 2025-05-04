@@ -1,0 +1,17 @@
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/bin/Debug/net8.0/TaskManagement.Persistence.deps.json
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/bin/Debug/net8.0/TaskManagement.Persistence.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/bin/Debug/net8.0/TaskManagement.Persistence.pdb
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/bin/Debug/net8.0/TaskManagement.Domain.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/bin/Debug/net8.0/TaskManagement.Shared.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/bin/Debug/net8.0/TaskManagement.Domain.pdb
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/bin/Debug/net8.0/TaskManagement.Shared.pdb
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskManagement.Persistence.csproj.AssemblyReference.cache
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskManagement.Persistence.AssemblyInfoInputs.cache
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskManagement.Persistence.AssemblyInfo.cs
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskManagement.Persistence.csproj.CoreCompileInputs.cache
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskMana.10D3BAAD.Up2Date
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskManagement.Persistence.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/refint/TaskManagement.Persistence.dll
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/TaskManagement.Persistence.pdb
+/Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Persistence/obj/Debug/net8.0/ref/TaskManagement.Persistence.dll
