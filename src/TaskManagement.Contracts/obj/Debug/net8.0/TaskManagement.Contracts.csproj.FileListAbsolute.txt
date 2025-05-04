@@ -1,0 +1,12 @@
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/bin/Debug/net8.0/TaskManagement.Contracts.deps.json
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/bin/Debug/net8.0/TaskManagement.Contracts.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/bin/Debug/net8.0/TaskManagement.Contracts.pdb
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/TaskManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/TaskManagement.Contracts.AssemblyInfoInputs.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/TaskManagement.Contracts.AssemblyInfo.cs
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/TaskManagement.Contracts.csproj.CoreCompileInputs.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/TaskManagement.Contracts.sourcelink.json
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/TaskManagement.Contracts.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/refint/TaskManagement.Contracts.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/TaskManagement.Contracts.pdb
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/Debug/net8.0/ref/TaskManagement.Contracts.dll

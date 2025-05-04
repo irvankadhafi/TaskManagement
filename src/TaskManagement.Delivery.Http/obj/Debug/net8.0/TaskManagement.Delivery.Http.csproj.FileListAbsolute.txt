@@ -1,0 +1,16 @@
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/bin/Debug/net8.0/TaskManagement.Delivery.Http.deps.json
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/bin/Debug/net8.0/TaskManagement.Delivery.Http.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/bin/Debug/net8.0/TaskManagement.Delivery.Http.pdb
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/bin/Debug/net8.0/TaskManagement.Contracts.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/bin/Debug/net8.0/TaskManagement.Contracts.pdb
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.csproj.AssemblyReference.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.AssemblyInfoInputs.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.AssemblyInfo.cs
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.csproj.CoreCompileInputs.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.sourcelink.json
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskMana.E03E5F2C.Up2Date
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/refint/TaskManagement.Delivery.Http.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/TaskManagement.Delivery.Http.pdb
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Delivery.Http/obj/Debug/net8.0/ref/TaskManagement.Delivery.Http.dll

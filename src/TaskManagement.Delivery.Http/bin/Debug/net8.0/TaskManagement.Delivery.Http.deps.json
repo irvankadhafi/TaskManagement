@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaskManagement.Delivery.Http/1.0.0": {
+        "dependencies": {
+          "TaskManagement.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "TaskManagement.Delivery.Http.dll": {}
+        }
+      },
+      "TaskManagement.Contracts/1.0.0": {
+        "runtime": {
+          "TaskManagement.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManagement.Delivery.Http/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskManagement.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

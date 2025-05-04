@@ -4102,6 +4102,7 @@
       "Serilog.AspNetCore >= 9.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0",
       "TaskManagement.Application >= 1.0.0",
+      "TaskManagement.Domain >= 1.0.0",
       "TaskManagement.Infrastructure >= 1.0.0",
       "TaskManagement.Persistence >= 1.0.0",
       "TaskManagement.Shared >= 1.0.0"
@@ -4135,6 +4136,9 @@
           "projectReferences": {
             "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj": {
               "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj"
+            },
+            "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj": {
+              "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj"
             },
             "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Infrastructure/TaskManagement.Infrastructure.csproj": {
               "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Infrastructure/TaskManagement.Infrastructure.csproj"

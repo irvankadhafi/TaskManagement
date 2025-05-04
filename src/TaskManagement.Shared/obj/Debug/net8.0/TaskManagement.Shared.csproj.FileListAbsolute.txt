@@ -10,3 +10,16 @@
 /Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/refint/TaskManagement.Shared.dll
 /Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.pdb
 /Users/irvankadhafi/Code/Dotnet/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/ref/TaskManagement.Shared.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/bin/Debug/net8.0/TaskManagement.Shared.deps.json
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/bin/Debug/net8.0/TaskManagement.Shared.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/bin/Debug/net8.0/TaskManagement.Shared.pdb
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.csproj.AssemblyReference.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.AssemblyInfoInputs.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.AssemblyInfo.cs
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.csproj.CoreCompileInputs.cache
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.sourcelink.json
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/refint/TaskManagement.Shared.dll
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/TaskManagement.Shared.pdb
+/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/Debug/net8.0/ref/TaskManagement.Shared.dll

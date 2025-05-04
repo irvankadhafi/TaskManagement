@@ -1,0 +1,402 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.UseCases/TaskManagement.UseCases.csproj": {}
+  },
+  "projects": {
+    "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj",
+        "projectName": "TaskManagement.Application",
+        "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj",
+        "packagesPath": "/Users/irvankadhafi/.nuget/packages/",
+        "outputPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irvankadhafi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj": {
+                "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj"
+              },
+              "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/TaskManagement.Shared.csproj": {
+                "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/TaskManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/TaskManagement.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/TaskManagement.Contracts.csproj",
+        "projectName": "TaskManagement.Contracts",
+        "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/TaskManagement.Contracts.csproj",
+        "packagesPath": "/Users/irvankadhafi/.nuget/packages/",
+        "outputPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irvankadhafi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj": {
+                "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj",
+        "projectName": "TaskManagement.Domain",
+        "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj",
+        "packagesPath": "/Users/irvankadhafi/.nuget/packages/",
+        "outputPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irvankadhafi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/TaskManagement.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/TaskManagement.Shared.csproj",
+        "projectName": "TaskManagement.Shared",
+        "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/TaskManagement.Shared.csproj",
+        "packagesPath": "/Users/irvankadhafi/.nuget/packages/",
+        "outputPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irvankadhafi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.UseCases/TaskManagement.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.UseCases/TaskManagement.UseCases.csproj",
+        "projectName": "TaskManagement.UseCases",
+        "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.UseCases/TaskManagement.UseCases.csproj",
+        "packagesPath": "/Users/irvankadhafi/.nuget/packages/",
+        "outputPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.UseCases/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irvankadhafi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj": {
+                "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Application/TaskManagement.Application.csproj"
+              },
+              "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/TaskManagement.Contracts.csproj": {
+                "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Contracts/TaskManagement.Contracts.csproj"
+              },
+              "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj": {
+                "projectPath": "/Users/irvankadhafi/RiderProjects/TaskManagement/src/TaskManagement.Domain/TaskManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
