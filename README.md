@@ -84,7 +84,7 @@ High‑level policies (Domain/Application) are completely isolated from low‑le
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your‑user/task‑management.git
+git clone https://github.com/irvankadhafi/TaskManagement.git
 cd task‑management
 ```
 
