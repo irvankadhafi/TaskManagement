@@ -12,9 +12,9 @@ A practical **Task Management System** built with **.NET 8** that demonstrates 
 4. [Prerequisites](#prerequisites)
 5. [Getting Started](#getting-started)
 
-    1. [Clone the Repository](#clone-the-repository)
-    2. [Run Locally](#run-locally)
-    3. [Run with Docker](#run-with-docker)
+   1. [Clone the Repository](#clone-the-repository)
+   2. [Run Locally](#run-locally)
+   3. [Run with Docker](#run-with-docker)
 6. [API Reference](#api-reference)
 7. [Testing](#testing)
 8. [Project Structure](#project-structure)
@@ -85,7 +85,7 @@ High‑level policies (Domain/Application) are completely isolated from low‑le
 
 ```bash
 git clone https://github.com/irvankadhafi/TaskManagement.git
-cd task‑management
+cd TaskManagement
 ```
 
 ### Run Locally (In‑Memory Database)
@@ -139,15 +139,20 @@ All use‑cases are isolated with mocks, making the tests fast and deterministic
 
 ```text
 TaskManagement/
+├─ Dockerfile
+├─ docker-compose.yml
+├─ TaskManagement.sln
 ├─ src/
-│  ├─ TaskManagement.Domain/         # Entities & enums
-│  ├─ TaskManagement.Application/    # DTOs, ports
-│  ├─ TaskManagement.UseCases/       # TaskService (interactor)
-│  ├─ TaskManagement.Infrastructure/ # In‑memory repository
-│  ├─ TaskManagement.Persistence/    # EF Core, DbContext, PG repository
-│  └─ TaskManagement.API/            # ASP.NET Core Web API
+│  ├─ TaskManagement.API/            # ASP.NET Core Web API (presentation layer)
+│  │   └─ Controllers/               # HTTP endpoints
+│  ├─ TaskManagement.Application/    # DTOs, ports, and TaskService interactor
+│  ├─ TaskManagement.Contracts/      # Shared contract models between layers
+│  ├─ TaskManagement.Delivery.Http/  # (Optional) additional delivery adapters
+│  ├─ TaskManagement.Domain/         # Core domain entities & enums
+│  ├─ TaskManagement.Infrastructure/ # In‑memory repository (mock DB)
+│  ├─ TaskManagement.Persistence/    # EF Core DbContext & PostgreSQL repository
+│  └─ TaskManagement.UseCases/       # Reusable use‑case orchestrations
 └─ tests/
    └─ TaskManagement.Application.Tests/ # Unit tests
 ```
 
----
